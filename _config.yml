@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Ronak Dilip Shah
+description: Stony Brook | Applied Maths and Statistics | Operations Research
+plugins:
+  - jekyll-seo-tag
