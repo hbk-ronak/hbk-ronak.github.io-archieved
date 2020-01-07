@@ -8,9 +8,9 @@ You can find my updated resume [here](https://drive.google.com/file/d/17UCVXkCnR
 I also have an interest in writing fantasy fiction, worldbuilding and conlanging.
 
 # Contact
-Linkedin: [/ronakshah52](https://www.linkedin.com/in/ronakshah52)
-github: [hbk-ronak](https://www.github.com/hbk-ronak/)
-reddit: [/u/bloodlessAcranist](https://www.reddit.com/u/bloodlessAcranist)
+* Linkedin: [/ronakshah52](https://www.linkedin.com/in/ronakshah52)
+* github: [hbk-ronak](https://www.github.com/hbk-ronak/)
+* reddit: [/u/bloodlessAcranist](https://www.reddit.com/u/bloodlessAcranist)
 
 # Projects
 1. [Geriatric Visualization](http://datascience.ronakshah.xyz/Data-Is-beautiful-Geriatric/)
