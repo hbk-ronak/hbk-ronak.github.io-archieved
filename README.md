@@ -1,5 +1,5 @@
 # Bio
-I'm currently a Master's student at Stony Brook University where I'm majoring in Applied Math and Statistics with Special focus on Optimization and Operations Research.
+I'm currently a Master's student at Stony Brook University where I'm majoring in Applied Math and Statistics with Special focus on Optimization and Operations Research and actively looking for internship opportunities in Data Science, Analytics, Operations Research, Machine Learning, Data Engineering and Quantitative Trading.
 
 I've worked with Factspan Inc for 2.5 years where I supported fortune 500 companies in their Analytics, and Data engineering requirements. I've experience working with Retail and Hospitality industry data.
 
