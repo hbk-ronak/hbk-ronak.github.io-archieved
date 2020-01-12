@@ -7,12 +7,19 @@ You can find my updated resume [here](https://drive.google.com/file/d/17UCVXkCnR
 
 I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz), worldbuilding and [Conlanging](https://hbk-ronak.github.io/conlang/)
 
+# Education
+
+|University   |Major   |GPA   |
+|---|---|---|
+|Stony Brook University   |Applied Maths and Stats   |3.83/4.0   |
+|National Institute of Technology   |Mechanical Engineering   |8.51/10.0   |
+
 # Contact
 * Linkedin: [/ronakshah52](https://www.linkedin.com/in/ronakshah52)
 * github: [hbk-ronak](https://www.github.com/hbk-ronak/)
 * reddit: [/u/bloodlessAcranist](https://www.reddit.com/u/bloodlessAcranist)
 
-# Projects
+# Personal Projects
 1. [Geriatric Visualization](http://datascience.ronakshah.xyz/Data-Is-beautiful-Geriatric/)
 2. [Freezing cycle of Lake Mendota](http://datascience.ronakshah.xyz/Data-is-beautiful-freezing/)
 3. [Marvel v. DC](https://www.kaggle.com/ronakshah52/marvel-v-dc)
@@ -21,5 +28,3 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
 6. [Fifa'19](https://public.tableau.com/profile/ronak.shah8593#!/vizhome/Fifa19Analysis/Fifa2019)
 7. [Fifa'19 University Project](https://drive.google.com/file/d/18N8Q5Pm4VG50cqVSI1HUeu74TmkdZ34A/view?usp=sharing)
 8. [Analysis of Bible](https://www.kaggle.com/ronakshah52/analysis-of-bible)
-
-
