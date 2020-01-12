@@ -22,10 +22,18 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
 
 # Personal Projects
 1. [Geriatric Visualization](http://datascience.ronakshah.xyz/Data-Is-beautiful-Geriatric/)
+  * Visualize the relationship between gender, ethnicity and birthplace and deathplace.
 2. [Freezing cycle of Lake Mendota](http://datascience.ronakshah.xyz/Data-is-beautiful-freezing/)
+  * Visualized the freezing period of Lake Mendota to see if there are any significant changes over the years
 3. [Marvel v. DC](https://www.kaggle.com/ronakshah52/marvel-v-dc)
+  * Visualized physical attributes of Marvel and DC comics characters
 4. [Spotify Songs](https://www.kaggle.com/ronakshah52/spotifysongs)
+  * Visualized the characteristics in Billboards top songs over the last decade
 5. [Anomaly Detection](http://datascience.ronakshah.xyz/anomaly-business/)
+  * A POV of how anomaly detection can help save millions of dollars
 6. [Fifa'19](https://public.tableau.com/profile/ronak.shah8593#!/vizhome/Fifa19Analysis/Fifa2019)
+  * Visualized what affects soccer players' wages using tableau
 7. [Fifa'19 University Project](https://drive.google.com/file/d/18N8Q5Pm4VG50cqVSI1HUeu74TmkdZ34A/view?usp=sharing)
+  * A statistical analysis of disparities in players' wages
 8. [Analysis of Bible](https://www.kaggle.com/ronakshah52/analysis-of-bible)
+  * A visualization of topics in bible
