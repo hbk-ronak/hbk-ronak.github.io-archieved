@@ -18,6 +18,7 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
 * Linkedin: [/ronakshah52](https://www.linkedin.com/in/ronakshah52)
 * github: [hbk-ronak](https://www.github.com/hbk-ronak/)
 * reddit: [/u/bloodlessAcranist](https://www.reddit.com/u/bloodlessAcranist)
+* Kaggle: [/ronakshah52](https://www.kaggle.com/ronakshah52)
 
 # Personal Projects
 1. [Geriatric Visualization](http://datascience.ronakshah.xyz/Data-Is-beautiful-Geriatric/)
