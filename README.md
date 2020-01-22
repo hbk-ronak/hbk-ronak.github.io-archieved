@@ -43,3 +43,5 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
          Animated visualization of IMDb ratings of MHA episodes
 11. [Visualization of 10k Tweets by POTUS](https://www.kaggle.com/ronakshah52/trump-tweets)<br>
          An EDA of 10k Tweets by POTUS using Python
+12. [PyML](https://www.github.com/hbk-ronak/PyML)<br>
+         My attempt to build a autoML library to get a baseline quickly
