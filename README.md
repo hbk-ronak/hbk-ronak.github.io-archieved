@@ -22,9 +22,9 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
 
 # Personal Projects
 1. [Geriatric Visualization](http://datascience.ronakshah.xyz/Data-Is-beautiful-Geriatric/)
- * Visualize the relationship between gender, ethnicity and birthplace and deathplace.
+   Visualize the relationship between gender, ethnicity and birthplace and deathplace.
 2. [Freezing cycle of Lake Mendota](http://datascience.ronakshah.xyz/Data-is-beautiful-freezing/)
- * Visualized the freezing period of Lake Mendota to see if there are any significant changes over the years
+   Visualized the freezing period of Lake Mendota to see if there are any significant changes over the years
 3. [Marvel v. DC](https://www.kaggle.com/ronakshah52/marvel-v-dc)
   * Visualized physical attributes of Marvel and DC comics characters
 4. [Spotify Songs](https://www.kaggle.com/ronakshah52/spotifysongs)
