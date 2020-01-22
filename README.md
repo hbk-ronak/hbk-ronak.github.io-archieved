@@ -22,26 +22,38 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
 
 # Personal Projects
 1. [Geriatric Visualization](http://datascience.ronakshah.xyz/Data-Is-beautiful-Geriatric/)<br>
-         Visualize the relationship between gender, ethnicity and birthplace and deathplace.
+         Visualize the relationship between gender, ethnicity and birthplace and deathplace.<br>
+         Tools: RawGraph
 2. [Freezing cycle of Lake Mendota](http://datascience.ronakshah.xyz/Data-is-beautiful-freezing/)<br>
-         Visualized the freezing period of Lake Mendota to see if there are any significant changes over the years
+         Visualized the freezing period of Lake Mendota to see if there are any significant changes over the years<br>
+         Tools: Python and Matplotlib
 3. [Marvel v. DC](https://www.kaggle.com/ronakshah52/marvel-v-dc)<br>
-         Visualized physical attributes of Marvel and DC comics characters
+         Visualized physical attributes of Marvel and DC comics characters<br>
+         Tools: Python and Plotly
 4. [Spotify Songs](https://www.kaggle.com/ronakshah52/spotifysongs)<br>
-         Visualized the characteristics in Billboards top songs over the last decade
+         Visualized the characteristics in Billboards top songs over the last decade<br>
+         Tools: Python, Matplotlib and Plotly
 5. [Anomaly Detection](http://datascience.ronakshah.xyz/anomaly-business/)<br>
-         A POV of how anomaly detection can help save millions of dollars
+         A POV of how anomaly detection can help save millions of dollars<br>
+         Tools: Python
 6. [Fifa'19](https://public.tableau.com/profile/ronak.shah8593#!/vizhome/Fifa19Analysis/Fifa2019)<br>
-         Visualized what affects soccer players' wages using tableau
+         Visualized what affects soccer players' wages using tableau<br>
+         Tools: Tableau
 7. [Fifa'19 University Project](https://drive.google.com/file/d/18N8Q5Pm4VG50cqVSI1HUeu74TmkdZ34A/view?usp=sharing)<br>
-         A statistical analysis of disparities in players' wages
+         A statistical analysis of disparities in players' wages<br>
+         Tools: R and Tableau
 8. [Analysis of Bible](https://www.kaggle.com/ronakshah52/analysis-of-bible)<br>
-         A visualization of topics in bible
+         A visualization of topics in bible<br>
+         Tools: Python, Plotly and Matplotlib
 9. [Test Cricket Visualized](https://www.kaggle.com/ronakshah52/test-cricket-visualized)<br>
-         A visualization of Batting statistics of Test Cricketers
+         A visualization of Batting statistics of Test Cricketers<br>
+         Tools: Python and Plotly
 10. [IMDb ratings of My Hero Academia Episodes](https://www.kaggle.com/ronakshah52/my-hero-academia-ratings)<br>
-         Animated visualization of IMDb ratings of MHA episodes
+         Animated visualization of IMDb ratings of MHA episodes<br>
+         Tools: Python and Matplotlib
 11. [Visualization of 10k Tweets by POTUS](https://www.kaggle.com/ronakshah52/trump-tweets)<br>
-         An EDA of 10k Tweets by POTUS using Python
+         An EDA of 10k Tweets by POTUS using Python<br>
+         Tools: Python, Plotly and Matplotlib
 12. [PyML](https://www.github.com/hbk-ronak/PyML)<br>
-         My attempt to build a autoML library to get a baseline quickly
+         My attempt to build a autoML library to get a baseline quickly<br>
+         Tools: Git and Python
