@@ -37,3 +37,9 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
   * A statistical analysis of disparities in players' wages
 8. [Analysis of Bible](https://www.kaggle.com/ronakshah52/analysis-of-bible)
   * A visualization of topics in bible
+9. [Test Cricket Visualized](https://www.kaggle.com/ronakshah52/test-cricket-visualized)
+  * A visualization of Batting statistics of Test Cricketers
+10. [IMDb ratings of My Hero Academia Episodes](https://www.kaggle.com/ronakshah52/my-hero-academia-ratings)
+  * Animated visualization of IMDb ratings of MHA episodes
+11. [Visualization of 10k Tweets by POTUS](https://www.kaggle.com/ronakshah52/trump-tweets)
+  * An EDA of 10k Tweets by POTUS using Python
