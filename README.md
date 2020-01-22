@@ -21,25 +21,25 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
 * Kaggle: [/ronakshah52](https://www.kaggle.com/ronakshah52)
 
 # Personal Projects
-1. [Geriatric Visualization](http://datascience.ronakshah.xyz/Data-Is-beautiful-Geriatric/)
-   Visualize the relationship between gender, ethnicity and birthplace and deathplace.
-2. [Freezing cycle of Lake Mendota](http://datascience.ronakshah.xyz/Data-is-beautiful-freezing/)
-   Visualized the freezing period of Lake Mendota to see if there are any significant changes over the years
-3. [Marvel v. DC](https://www.kaggle.com/ronakshah52/marvel-v-dc)
-  * Visualized physical attributes of Marvel and DC comics characters
-4. [Spotify Songs](https://www.kaggle.com/ronakshah52/spotifysongs)
-  * Visualized the characteristics in Billboards top songs over the last decade
-5. [Anomaly Detection](http://datascience.ronakshah.xyz/anomaly-business/)
-  * A POV of how anomaly detection can help save millions of dollars
-6. [Fifa'19](https://public.tableau.com/profile/ronak.shah8593#!/vizhome/Fifa19Analysis/Fifa2019)
-  * Visualized what affects soccer players' wages using tableau
-7. [Fifa'19 University Project](https://drive.google.com/file/d/18N8Q5Pm4VG50cqVSI1HUeu74TmkdZ34A/view?usp=sharing)
-  * A statistical analysis of disparities in players' wages
-8. [Analysis of Bible](https://www.kaggle.com/ronakshah52/analysis-of-bible)
-  * A visualization of topics in bible
-9. [Test Cricket Visualized](https://www.kaggle.com/ronakshah52/test-cricket-visualized)
-  * A visualization of Batting statistics of Test Cricketers
-10. [IMDb ratings of My Hero Academia Episodes](https://www.kaggle.com/ronakshah52/my-hero-academia-ratings)
-  * Animated visualization of IMDb ratings of MHA episodes
-11. [Visualization of 10k Tweets by POTUS](https://www.kaggle.com/ronakshah52/trump-tweets)
-  * An EDA of 10k Tweets by POTUS using Python
+1. [Geriatric Visualization](http://datascience.ronakshah.xyz/Data-Is-beautiful-Geriatric/)<br>
+         Visualize the relationship between gender, ethnicity and birthplace and deathplace.
+2. [Freezing cycle of Lake Mendota](http://datascience.ronakshah.xyz/Data-is-beautiful-freezing/)<br>
+         Visualized the freezing period of Lake Mendota to see if there are any significant changes over the years
+3. [Marvel v. DC](https://www.kaggle.com/ronakshah52/marvel-v-dc)<br>
+         Visualized physical attributes of Marvel and DC comics characters
+4. [Spotify Songs](https://www.kaggle.com/ronakshah52/spotifysongs)<br>
+         Visualized the characteristics in Billboards top songs over the last decade
+5. [Anomaly Detection](http://datascience.ronakshah.xyz/anomaly-business/)<br>
+         A POV of how anomaly detection can help save millions of dollars
+6. [Fifa'19](https://public.tableau.com/profile/ronak.shah8593#!/vizhome/Fifa19Analysis/Fifa2019)<br>
+         Visualized what affects soccer players' wages using tableau
+7. [Fifa'19 University Project](https://drive.google.com/file/d/18N8Q5Pm4VG50cqVSI1HUeu74TmkdZ34A/view?usp=sharing)<br>
+         A statistical analysis of disparities in players' wages
+8. [Analysis of Bible](https://www.kaggle.com/ronakshah52/analysis-of-bible)<br>
+         A visualization of topics in bible
+9. [Test Cricket Visualized](https://www.kaggle.com/ronakshah52/test-cricket-visualized)<br>
+         A visualization of Batting statistics of Test Cricketers
+10. [IMDb ratings of My Hero Academia Episodes](https://www.kaggle.com/ronakshah52/my-hero-academia-ratings)<br>
+         Animated visualization of IMDb ratings of MHA episodes
+11. [Visualization of 10k Tweets by POTUS](https://www.kaggle.com/ronakshah52/trump-tweets)<br>
+         An EDA of 10k Tweets by POTUS using Python
