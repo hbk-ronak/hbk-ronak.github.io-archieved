@@ -57,9 +57,9 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
 12. [PyML](https://www.github.com/hbk-ronak/PyML)<br>
          My attempt to build a autoML library to get a baseline quickly<br>
          Tools: Git and Python
-13. [Netflix and Chill](https://www.kaggle.com/ronakshah52/netflix-and-chill/)
+13. [Netflix and Chill](https://www.kaggle.com/ronakshah52/netflix-and-chill/)<br>
          A simple visualization of what Netflix has on its platform<br>
          Tools: Python, Plotly and Squarify
-14. [DataLogger App](https://github.com/hbk-ronak/DataLoggerApp)
+14. [DataLogger App](https://github.com/hbk-ronak/DataLoggerApp)<br>
          A simple flask and Bootstrap based web app that allows a person to collect data on oneself<br>
          Tools: Python, Bootstrap, HTML
