@@ -58,8 +58,8 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
          My attempt to build a autoML library to get a baseline quickly<br>
          Tools: Git and Python
 13. [Netflix and Chill](https://www.kaggle.com/ronakshah52/netflix-and-chill/)
-         A simple visualization of what Netflix has on its platform
+         A simple visualization of what Netflix has on its platform<br>
          Tools: Python, Plotly and Squarify
 14. [DataLogger App](https://github.com/hbk-ronak/DataLoggerApp)
-         A simple flask and Bootstrap based web app that allows a person to collect data on oneself
+         A simple flask and Bootstrap based web app that allows a person to collect data on oneself<br>
          Tools: Python, Bootstrap, HTML
