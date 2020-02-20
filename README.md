@@ -63,3 +63,6 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
 14. [DataLogger App](https://github.com/hbk-ronak/DataLoggerApp)<br>
          A simple flask and Bootstrap based web app that allows a person to collect data on oneself<br>
          Tools: Python, Bootstrap, HTML
+15. [Quick Hull](https://github.com/hbk-ronak/quickhull)<br>
+        A new variant of quick hull algorithm to find convex hull around a set of points. Implemented as an assignment for Computational Geometry <br>
+        Tools: Python
