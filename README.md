@@ -11,7 +11,7 @@ I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz)
 
 |University   |Major   |GPA   |
 |---|---|---|
-|Stony Brook University   |Applied Maths and Stats   |3.83/4.0   |
+|Stony Brook University   |Applied Maths and Stats   |3.91/4.0   |
 |National Institute of Technology   |Mechanical Engineering   |8.51/10.0   |
 
 # Contact
