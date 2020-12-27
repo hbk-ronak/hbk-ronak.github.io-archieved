@@ -5,7 +5,7 @@ I've worked with Factspan Inc for 2.5 years where I supported fortune 500 compan
 
 You can find my updated resume [here](/Resume_Generic.pdf)
 
-I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz), worldbuilding and [Conlanging](https://hbk-ronak.github.io/conlang/)
+I also have an interest in writing [Fantasy Fiction](https://blog.ronakshah.xyz), worldbuilding and [Conlanging](https://hbk-ronak.github.io/conlang/). I've also created a card game that can be played with a standard deck of 52 cards. [Nexus](https://hbk-ronak.github.io/nexuscardgame/) The game is set in the Fantasy world I created. You can also check a related Board game called [Battle Lanes](https://hbk-ronak.github.io/battlelanes/)
 
 # Education
 
